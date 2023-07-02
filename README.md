@@ -25,7 +25,8 @@ The dataset used in this project was obtained from Kaggle. It was generated from
 
 ## Output Screenshot
 
-![Output Screenshot](https://github.com/sdrahmath/Movie-Recommender-System/assets/107697922/19ec033c-e6d4-4d13-a3c7-d83e71ca51f7)
+![Output Screenshot](https://github.com/sdrahmath/Movie-Recommender-System/assets/107697922/52b24bf5-c840-42ca-a1a7-58f6b350814a)
+
 
 
 The screenshot above shows a sample output of the movie recommendation app. It displays the selected movie, along with the top recommended movies, including their posters, titles, release years, genres, ratings, and brief plot summaries.
@@ -33,7 +34,8 @@ The screenshot above shows a sample output of the movie recommendation app. It d
 
 ## Output GIF
 
-![Output GIF](https://github.com/sdrahmath/Movie-Recommender-System/assets/107697922/e382789e-9374-481d-a2b3-f694c26ffe53)
+![Output GIF](https://github.com/sdrahmath/Movie-Recommender-System/assets/107697922/7acaabb1-7e13-4cc3-89f4-9c982bc97107)
+
 
 
 The above GIF demonstrates the functionality of the movie recommendation app. Users can select a movie and click the "Show Recommendation" button to receive a list of recommended movies based on their selection.
