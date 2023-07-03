@@ -25,7 +25,7 @@ The dataset used in this project was obtained from Kaggle. It was generated from
 
 ## Output Screenshot
 
-![Output Screenshot](https://github.com/sdrahmath/Movie-Recommender-System/assets/107697922/52b24bf5-c840-42ca-a1a7-58f6b350814a)
+![Output Screenshot](https://github.com/sdrahmath/Movie-Recommender-System/blob/main/output/output.png)
 
 
 
@@ -34,7 +34,7 @@ The screenshot above shows a sample output of the movie recommendation app. It d
 
 ## Output GIF
 
-![Output GIF](https://github.com/sdrahmath/Movie-Recommender-System/assets/107697922/7acaabb1-7e13-4cc3-89f4-9c982bc97107)
+![Output GIF](https://github.com/sdrahmath/Movie-Recommender-System/blob/main/output/output.gif)
 
 
 
